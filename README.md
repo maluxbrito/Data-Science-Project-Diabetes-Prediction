@@ -1,4 +1,4 @@
-# 🧠 Diabetes Prediction — Data Science Project
+# Diabetes Prediction — Data Science Project
 ---
 
 ## 📌 Overview
@@ -9,7 +9,7 @@ O projeto aborda desde a compreensão e limpeza dos dados até treinamento, vali
 
 ---
 
-## 🎯 Objectivos
+## Objectivos
 
 - Realizar Análise Exploratória de Dados (EDA)
 - Identificar padrões e correlações relevantes
@@ -20,7 +20,7 @@ O projeto aborda desde a compreensão e limpeza dos dados até treinamento, vali
 
 ---
 
-## 🛠️ Technologies
+## Technologias utilizadas
 
 ![Python](https://img.shields.io/badge/python-111111?style=for-the-badge&logo=python)
 ![Jupyter](https://img.shields.io/badge/jupyter-111111?style=for-the-badge&logo=jupyter)
@@ -32,7 +32,7 @@ O projeto aborda desde a compreensão e limpeza dos dados até treinamento, vali
 
 ---
 
-## 📊 Exploratory Data Analysis
+## 📊 Exploração de dados
 
 Durante a análise exploratória foram investigados:
 
@@ -42,7 +42,7 @@ Durante a análise exploratória foram investigados:
 - Valores inconsistentes e ausentes
 - Relação entre variáveis e diagnóstico de diabetes
 
-### Visualizations
+### Visualizações
 
 <p align="center">
   <img width="400" src="images/heatmap.png">
@@ -51,7 +51,7 @@ Durante a análise exploratória foram investigados:
 
 ---
 
-## ⚙️ Data Preprocessing
+## Pré-processamento
 
 Técnicas aplicadas no pipeline de pré-processamento:
 
@@ -63,7 +63,7 @@ Técnicas aplicadas no pipeline de pré-processamento:
 
 ---
 
-## 🤖 Machine Learning Models
+## Modelos de Machine Learning 
 
 Modelos supervisionados utilizados:
 
@@ -76,7 +76,7 @@ Cada modelo foi treinado e avaliado para comparar desempenho, capacidade de gene
 ---
 
 
-### Evaluation Metrics
+### Métricas de avaliação
 
 - Accuracy
 - Precision
@@ -85,7 +85,7 @@ Cada modelo foi treinado e avaliado para comparar desempenho, capacidade de gene
 
 ---
 
-## 🏆 Results
+## Resultados
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ Cada modelo foi treinado e avaliado para comparar desempenho, capacidade de gene
 
 ---
 
-## 💡 Main Insights
+## Insights
 
 - A variável **Glucose** apresentou forte relação com o diagnóstico de diabetes
 - Algumas variáveis continham valores inconsistentes iguais a zero
@@ -104,7 +104,7 @@ Cada modelo foi treinado e avaliado para comparar desempenho, capacidade de gene
 
 ---
 
-## 📂 Project Structure
+## Estrutura do projeto
 
 ```bash
 ├── data/
@@ -115,7 +115,7 @@ Cada modelo foi treinado e avaliado para comparar desempenho, capacidade de gene
 
 ---
 
-## 🚀 How to Run
+## Como rodar
 
 ```bash
 pip install -r requirements.txt
@@ -124,7 +124,7 @@ jupyter notebook
 
 ---
 
-## 👩🏻‍💻 Author
+## 👩🏻‍💻 Autora
 
 **Malu Brito**  
 Computer Science @ UFBA
