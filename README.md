@@ -125,7 +125,6 @@ jupyter notebook
 ---
 
 ## 👩🏻‍💻 Author
-Malu Brito
 
 **Malu Brito**  
 Computer Science @ UFBA
